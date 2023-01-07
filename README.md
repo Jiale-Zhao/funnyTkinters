@@ -10,3 +10,5 @@ all just kidding!
 
 enjoy your programming time in life!
 
+## Install
+[click here(just for windows system!)](https://github.com/Jiale-Zhao/funnyTkinters/releases)
